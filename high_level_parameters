@@ -1,0 +1,10 @@
+# High-Level H-JEPA Parameters
+
+| Hyperparameter |   Value   |
+|----------------|-----------|
+| Learning rate  | 9*10^{-3} | 
+| Batch size     |  256      | 
+| Epoch number   | 150       | 
+| Optimizer      | SGD       | 
+| Weight decay   | 0.001     | 
+| EMA decay rate | 0.99      | 
