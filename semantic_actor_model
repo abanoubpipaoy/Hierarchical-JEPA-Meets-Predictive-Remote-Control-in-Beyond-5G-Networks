@@ -1,0 +1,9 @@
+# Semantic Actor Model Parameters
+
+| Hyperparameter |   Value   |
+|----------------|-----------|
+| Learning rate  | 6*10^{-3} | 
+| Batch size     |  200      | 
+| Epoch number   |  300      | 
+| Optimizer      | AdamW     | 
+| Drop out       | 0.2       | 
