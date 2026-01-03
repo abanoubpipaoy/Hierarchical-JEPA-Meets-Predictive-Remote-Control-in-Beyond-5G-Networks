@@ -5,7 +5,7 @@ This repository contains all simulation parameters used in the paper:
 > **"Hierarchical-JEPA-Meets-Predictive-Remote-Control-in-Beyond-5G-Networks"**
 
 ### Simulation Parameters
-- [System Parameters](simulation_parameters/system_parameters.md)
+- [System Parameters](simulation_parameters/system_parameter.md)
 - [High-level H-JEPA Parameters](high_level_parameters)
 - [Medium-level H-JEPA Parameters](medium_level_parameters)
 - [Low-level H-JEPA Parameters](low_level_parameters)
